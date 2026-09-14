@@ -1,2 +1,3 @@
 # ProgJogosSeg16h
-## teste
+## Projeto Programação de Jogos Modulo 1
+## 
