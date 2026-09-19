@@ -1,6 +1,6 @@
 # ⚔️ Zealand Saga
 
-**Zealand Saga** é um jogo atualmente em fase de desenvolvimento.
+**Zealand Saga** meu jogo que atualmente esta em desenvolvimento.
 
 ## 💻 Tecnologias Usadas
 
