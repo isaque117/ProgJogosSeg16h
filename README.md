@@ -1,3 +1,3 @@
 # ProgJogosSeg16h
-## Projeto Programação de Jogos Modulo 1
+## nome do projeto: Zealand Saga
 ## 
